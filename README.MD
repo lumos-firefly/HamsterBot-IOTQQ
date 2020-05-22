@@ -1,6 +1,8 @@
 # 仓鼠BOT
 一个基于[IOTQQ](https://github.com/IOTQQ/IOTQQ)的Java版本QQ机器人框架。
 
+本项目准备增加功能代码，目标是提供 warframe 相关信息的查询
+
 # 这是什么？
 一个使用Java语言编写的QQ机器人框架，你可以使用HamsterBot创造出自己的机器人。  
 使用代码监听群信息、好友信息，并作出相应的处理。
