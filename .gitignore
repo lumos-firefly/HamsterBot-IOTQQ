@@ -4,3 +4,8 @@
 /out/
 /out/production/classes/
 /out/test/classes/
+.gitignore
+.gradle/
+build:
+.idea
+gradle
