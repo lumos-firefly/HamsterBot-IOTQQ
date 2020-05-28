@@ -9,7 +9,7 @@ import lombok.Data;
 @Data
 public class RewardInfo {
     private long id;
-    private String iteamName;
-    private String rarity;
-    private float chance;
+    private String itemName;
+    private String rarity; // 稀有度
+    private float chance; // 奖励获取概率
 }
