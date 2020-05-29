@@ -1,4 +1,4 @@
-package cn.hamster3.bot.model.alert;
+package cn.hamster3.bot.model;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import lombok.Data;
  * Created on 2020-05-28
  */
 @Data
-public class AlertReward {
+public class Reward {
     private List<String> items;
     private List<CountedItem> countedItems;
     private long credits;
